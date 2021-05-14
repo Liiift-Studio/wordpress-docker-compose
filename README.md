@@ -1,5 +1,16 @@
 # WPDC - WordPress Docker Compose
 
+## Quick Start
+
+Copy this repo's contents into your intended directory. 
+Run the code below in your directorie's root.
+
+```bash
+cp env.example .env
+docker-compose up
+```
+
+## Intro
 Easy WordPress development with Docker and Docker Compose.
 
 With this project you can quickly run the following:
