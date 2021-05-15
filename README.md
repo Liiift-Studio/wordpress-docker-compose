@@ -3,7 +3,7 @@
 ## Quick Start
 
 Copy this repo's contents into your intended directory. 
-Run the code below in your directorie's root.
+Run the code below in your directory's root.
 
 ```bash
 cp env.example .env
